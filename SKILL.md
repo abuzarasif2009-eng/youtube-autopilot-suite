@@ -58,6 +58,16 @@ B) Main khud likhta hoon
 A) Auto-generated
 B) Main file path dunga
 
+## Step 1.5 — Final Approval (Zaroori)
+MCQ ke saare answers milne ke baad, command run karne se PEHLE, user ko ek summary dikhao:
+"Main ye settings ke saath video upload karne wala hoon:
+- Title: [Title]
+- Privacy: [Privacy]
+- Type: [Short/Long]
+Kya main upload kar doon? (Yes/No)"
+
+Jab tak user 'Yes' ya 'Haan' na bole, tab tak script run MAT karo.
+
 ## Step 2 — Script chalao
 
 Jab saare answers mil jayein, to skill folder mein ye command chalao:
